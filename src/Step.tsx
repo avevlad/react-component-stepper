@@ -1,15 +1,9 @@
-import React from 'react';
+import React from "react";
 
-interface StepProps {
-
-}
+interface StepProps {}
 
 export const Step: React.FC<StepProps> = (props) => {
-    console.log("props = ", props);
+  console.log("props = ", props);
 
-    return (
-        <div>
-            Step
-        </div>
-    );
+  return <div>Step</div>;
 };
