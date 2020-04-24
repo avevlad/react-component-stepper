@@ -1,3 +1,4 @@
 {
-  "alias": ["react-component-stepper"]
+  "alias": ["react-component-stepper"],
+  "root": "documentation-site"
 }
